@@ -2,10 +2,21 @@
 #include <stdlib.h>
 #include <math.h>
 
+// Copyright Jan Rzeznik
+// University of Nottingham
+// Function that allows Pi to be calculated to required accuracy
 
+double get_Pi(double accuracy){
+    do{
+
+    }(while )
+}
 int main(){
     float N,D;
     while (1){
+
+        // Randomly generate 2 cooridnates using the rand() function, and then dividing by 50 and subtracting by 1 to get a value that will be between -1 and 1 inclusive. This will be to 2 dp
+
         float x = rand () % (100) ;
 
         x = x/50;
